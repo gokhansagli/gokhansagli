@@ -1,16 +1,31 @@
-## Hi there 👋
+# Gökhan SAĞLI
 
-<!--
-**gokhansagli/gokhansagli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Web Developer
 
-Here are some ideas to get you started:
+Modern, ölçeklenebilir ve kullanıcı odaklı web uygulamaları geliştiriyorum.  
+Frontend ve backend teknolojilerini birlikte kullanarak fikirden canlıya kadar uçtan uca çözümler üretiyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+**Frontend**  
+HTML5 • CSS3 • JavaScript • jQuery • React • Tailwind CSS • Bootstrap
+
+**Backend**  
+PHP • Laravel • MySQL
+
+**Tools**  
+Git • GitHub • VS Code
+
+---
+
+## 📌 Hakkımda
+
+Performans, güvenlik ve kullanıcı deneyimini ön planda tutarak sürdürülebilir ve modern yazılım çözümleri geliştiriyorum.  
+
+---
+
+## 📫 İletişim
+
+İletişim: [info@gkcode.net](mailto:info@gkcode.net)
